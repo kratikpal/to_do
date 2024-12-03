@@ -12,7 +12,7 @@ A simple To-Do app built with Flutter, allowing users to create tasks with a tit
 ## Screenshots
 
 - Main screen showing a list of tasks.
-  <img src="https://github.com/user-attachments/assets/e5c272cf-b71c-4a34-9453-d885304985a8"  width="500" height="900">
+  <img src="https://github.com/user-attachments/assets/e5c272cf-b71c-4a34-9453-d885304985a8" >
 
 ## Installation
 
